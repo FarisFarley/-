@@ -1,11 +1,11 @@
 {
   "status": "Success",
-  "data": {
-    "info_1": {
+  "details": {
+    "info": {
       "name": "Revelation",
       "reference": "Sahih Al-Bukhari",
       "reference_book": "Book 1",
-      "1": [
+      "data": [
         {
           "number": "1",
           "chapter": "How the Divine Revelation started being revealed to Allah's Messenger",
