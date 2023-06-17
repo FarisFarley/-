@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3567a462-1986-4ce0-aed4-f9e64d5f9770" name="Changes" comment="done" />
+    <list default="true" id="3567a462-1986-4ce0-aed4-f9e64d5f9770" name="Changes" comment="17/6/2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +46,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686980601959</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done">
+      <created>1686980741740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686980741740</updated>
+    </task>
+    <task id="LOCAL-00003" summary="17/6/2023">
+      <created>1686980864451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686980864451</updated>
+    </task>
+    <task id="LOCAL-00004" summary="17/6/2023">
+      <created>1686981123136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686981123136</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="17/6/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="17/6/2023" />
   </component>
 </project>
