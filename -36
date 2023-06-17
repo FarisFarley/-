@@ -1,0 +1,37 @@
+{
+  "status": "Success",
+  "details":  {
+    "name": "Shuf'a",
+    "reference": "Sahih Al-Bukhari",
+    "reference_book": "Book 36",
+    "data": [
+      {
+        "number": "1",
+        "chapter": "",
+        "grade": "Sahih",
+        "hadith_number": "Hadith 2257",
+        "reference_hadith": "Hadith 1",
+        "narrated_by": "Narrated Jabir bin Abdullah:",
+        "body": "Allah's Messenger (ﷺ) gave a verdict regarding Shuf'a in every undivided joint thing (property). But if the limits are defined (or demarcated) or the ways and streets are fixed, then there is no pre-emption."
+      },
+      {
+        "number": "2",
+        "chapter": "",
+        "grade": "Sahih",
+        "hadith_number": "Hadith 2258",
+        "reference_hadith": "Hadith 2",
+        "narrated_by": "Narrated Amr bin Ash-Sharid:",
+        "body": "While I was standing with Sa`d bin Abi Waqqas, Al-Miswar bin Makhrama came and put his hand on my shoulder. Meanwhile Abu Rafi`, the freed slave of the Prophet (ﷺ) came and asked Sa`d to buy from him the (two) dwellings which were in his house. Sa`d said, \"By Allah I will not buy them.\" Al- Miswar said, \"By Allah, you shall buy them.\" Sa`d replied, \"By Allah, I will not pay more than four thousand (Dirhams) by installments.\" Abu Rafi` said, \"I have been offered five hundred Dinars (for it) and had I not heard the Prophet (ﷺ) saying, 'The neighbor has more right than anyone else because of his nearness, I would not give them to you for four-thousand (Dirhams) while I am offered five-hundred Dinars (one Dinar equals ten Dirhams) for them.\" So, he sold it to Sa`d."
+      },
+      {
+        "number": "3",
+        "chapter": "",
+        "grade": "Sahih",
+        "hadith_number": "Hadith 2259",
+        "reference_hadith": "Hadith 3",
+        "narrated_by": "Narrated Aisha:",
+        "body": "I said, \"O Allah's Messenger (ﷺ)! I have two neighbors and would like to know to which of them I should give presents.\" He replied, \"To the one whose door is nearer to you.\""
+      }
+    ]
+  }
+}

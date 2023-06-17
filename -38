@@ -1,0 +1,37 @@
+{
+  "status": "Success",
+  "details":  {
+    "name": "Al-Hawaala",
+    "reference": "Sahih Al-Bukhari",
+    "reference_book": "Book 38",
+    "data": [
+      {
+        "number": "1",
+        "chapter": "",
+        "grade": "Sahih",
+        "hadith_number": "Hadith 2287",
+        "reference_hadith": "Hadith 1",
+        "narrated_by": "Narrated Abu Huraira:",
+        "body": "The Prophet (ﷺ) said, \"Procrastination (delay) in paying debts by a wealthy man is injustice. So, if your debt is transferred from your debtor to a rich debtor, you should agree.\""
+      },
+      {
+        "number": "2",
+        "chapter": "",
+        "grade": "Sahih",
+        "hadith_number": "Hadith 2288",
+        "reference_hadith": "Hadith 2",
+        "narrated_by": "Narrated Abu Huraira:",
+        "body": "The Prophet (ﷺ) said, \"Procrastination (delay) in paying debts by a wealthy person is injustice. So, if your debt is transferred from your debtor to a rich debtor, you should agree.\""
+      },
+      {
+        "number": "3",
+        "chapter": "",
+        "grade": "Sahih",
+        "hadith_number": "Hadith 2289",
+        "reference_hadith": "Hadith 3",
+        "narrated_by": "Narrated Salama bin Al-Akwa:",
+        "body": "Once, while we were sitting in the company of Prophet, a dead man was brought. The Prophet (ﷺ) was requested to lead the funeral prayer for the deceased. He said, \"Is he in debt?\" The people replied in the negative. He said, \"Has he left any wealth?\" They said, \"No.\" So, he led his funeral prayer. Another dead man was brought and the people said, \"O Allah's Messenger (ﷺ)! Lead his funeral prayer.\" The Prophet (ﷺ) said, \"Is he in debt?\" They said, \"Yes.\" He said, \"Has he left any wealth?\" They said, ''Three Dinars.\" So, he led the prayer. Then a third dead man was brought and the people said (to the Prophet (ﷺ) ), Please lead his funeral prayer.\" He said, \"Has he left any wealth?\" They said, \"No.\" He asked, \"Is he in debt?\" They said, (\"Yes! He has to pay) three Diners.', He (refused to pray and) said, \"Then pray for your (dead) companion.\" Abu Qatada said, \"O Allah's Messenger (ﷺ)! Lead his funeral prayer, and I will pay his debt.\" So, he led the prayer."
+      }
+    ]
+  }
+}
