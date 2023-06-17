@@ -1,10 +1,10 @@
 {
   "status": "Success",
-  "info_4": {
+  "details": {
     "name": "Ablutions (Wudu')",
     "reference": "Sahih Al-Bukhari",
     "reference_book": "Book 4",
-    "4": [
+    "data": [
       {
         "number": "1",
         "chapter": "",
